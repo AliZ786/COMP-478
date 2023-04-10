@@ -11,7 +11,7 @@ Project done for Comp 478: Image Processing
 
 ## Link to Dataset
 
-https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?resource=download
 
 ## Link to Report
 
