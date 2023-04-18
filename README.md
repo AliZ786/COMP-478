@@ -1,7 +1,6 @@
 # COMP 478 - Image Processing Project
 
-Project done for Comp 478: Image Processing
-
+## Comparaison of Brain Tumor MRI Detection with Neural Networks vs. Traditional Machine Learning Models
 ## Team Members
 
 | Name               | Student ID | GitHub Page                                   |
